@@ -8,4 +8,4 @@
 
 ## 随笔 -- 概念
 
-[【随笔：原型模式和原型链】](https://github.com/HardenSG/blog/issues/2)
+[【随笔：原型模式】](https://github.com/HardenSG/blog/issues/2)
