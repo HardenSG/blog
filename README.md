@@ -9,3 +9,4 @@
 ## 随笔 -- 概念
 
 [【随笔：原型模式】](https://github.com/HardenSG/blog/issues/2)
+[【通过实现一个最简的reactive，学习Vue3响应式核心】](https://github.com/HardenSG/blog/issues/3)
