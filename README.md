@@ -6,6 +6,8 @@
 
 [【手写深拷贝？我觉得这样写就行】](https://github.com/HardenSG/blog/issues/1)
 
+[【资源预解析，写一个？】](https://github.com/HardenSG/blog/issues/5)
+
 ## 随笔 -- 概念 & 核心原理
 
 [【随笔：原型模式】](https://github.com/HardenSG/blog/issues/2)
