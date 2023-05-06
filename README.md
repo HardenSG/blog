@@ -8,6 +8,8 @@
 
 [【资源预解析，写一个？】](https://github.com/HardenSG/blog/issues/5)
 
+[【快速手写一遍call、apply、bind】](https://github.com/HardenSG/blog/issues/6)
+
 ## 随笔 -- 概念 & 核心原理
 
 [【随笔：原型模式】](https://github.com/HardenSG/blog/issues/2)
