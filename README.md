@@ -17,3 +17,6 @@
 [【通过实现一个最简的reactive，学习Vue3响应式核心】](https://github.com/HardenSG/blog/issues/3)
 
 [【都用过ref和computed，但你懂它的原理吗？】](https://github.com/HardenSG/blog/issues/4)
+
+
+[【runtime 核心原理，Vue3真正的烫手山芋】](https://github.com/HardenSG/blog/issues/7)
